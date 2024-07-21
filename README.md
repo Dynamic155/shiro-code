@@ -54,7 +54,7 @@ If you'd like to contribute to this theme, please follow these steps:
 
 ## License
 
-This theme is licensed under the [MIT License](LICENSE).
+This theme is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## Feedback
 
