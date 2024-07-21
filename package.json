@@ -1,0 +1,22 @@
+{
+  "name": "shiro-code",
+  "displayName": "Shiro Code",
+  "description": "VSC Theme | Made by Shirozy :3",
+  "version": "0.0.1",
+  "publisher": "ShiroCode",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shiro Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shiro Code-color-theme.json"
+      }
+    ]
+  }
+}
