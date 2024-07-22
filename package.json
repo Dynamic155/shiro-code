@@ -4,6 +4,7 @@
   "description": "VSC Theme | Made by Shirozy :3",
   "version": "0.1.4",
   "publisher": "ShiroCode",
+  "icon": "img/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Dynamic155/shiro-code"
