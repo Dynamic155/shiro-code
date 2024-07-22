@@ -3,8 +3,8 @@
 Shiro Code is a dark theme for Visual Studio Code with a focus on pastel colors and a clean, elegant aesthetic. This theme aims to provide a soothing and visually appealing coding environment.
 
 ## Screenshots
-
-![ShiroCode Screenshot](https://github.com/user-attachments/assets/949f7ecb-4283-4e0f-ad95-b6b98f7bdd7b)
+### ShiroCode Dark
+![ShiroCode Screenshot](https://github.com/user-attachments/assets/1eda4fa1-4ed9-48ce-bf0c-070b9095c58b)
 
 ## Installation
 
@@ -14,32 +14,31 @@ Shiro Code is a dark theme for Visual Studio Code with a focus on pastel colors 
 4. Click **Reload** to reload your editor
 5. Navigate to File > Preferences > Color Theme > **Shiro Code**
 
-## Theme Colors
+## Shiro Code Theme
 
-### Background Colors
-- **Darkest Background:** `#1E1E28`
-- **Dark Background:** `#2A2A37`
-- **Less Dark Background:** `#30324A`
+### Color Palette
 
-### Foreground Colors
-- **Light Foreground:** `#A4B7E7`
-- **Lighter Foreground:** `#B1C1F7`
+#### General
+| Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
+| ---------- | ------------------------------------------------------------ |
+| ![#1E1E28](https://place-hold.it/15/1E1E28/1E1E28?text=+) &nbsp; `#1E1E28` | Backgrounds, Panels, Editors |
+| ![#A4B7E7](https://place-hold.it/15/A4B7E7/A4B7E7?text=+) &nbsp; `#A4B7E7` | Foregrounds, Active Elements |
+| ![#5A75C5](https://place-hold.it/15/5A75C5/5A75C5?text=+) &nbsp; `#5A75C5` | Borders, Highlights, Links |
+| ![#839BFF](https://place-hold.it/15/839BFF/839BFF?text=+) &nbsp; `#839BFF` | Badges, Warnings, Untracked Resources |
+| ![#66B98D](https://place-hold.it/15/66B98D/66B98D?text=+) &nbsp; `#66B98D` | Success, Highlight Foregrounds |
+| ![#F9A3E6](https://place-hold.it/15/F9A3E6/F9A3E6?text=+) &nbsp; `#F9A3E6` | Errors, Deletions |
+| ![#4F8861](https://place-hold.it/15/4F8861/4F8861?text=+) &nbsp; `#4F8861` | Additions, Success |
 
-### Accent Colors
-- **Darkest Accent Color 1:** `#5A75C5`
-- **Medium Dark Accent Color 1:** `#6B84E0`
-- **Lighter Accent Color 1:** `#839BFF`
-- **Extra Light Accent Color 1:** `#B2C5FF`
-
-- **Accent Color 2:** `#78D9A5`
-- **Darker Accent Color 2:** `#5EA273`
-
-- **Accent Color 3:** `#F9A3E6`
-
-### Application Colors
-- **Status Bar Background:** `#2E2E38`
-- **Status Bar Foreground:** `#CEC9C4`
-- **Minimap Background:** `#2E2E38`
+#### Specific Usage
+| Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
+| ---------- | ------------------------------------------------------------ |
+| ![#1E1E28](https://place-hold.it/15/1E1E28/1E1E28?text=+) &nbsp; `#1E1E28` | Editor Background, Sidebar Background, Activity Bar Background |
+| ![#A4B7E7](https://place-hold.it/15/A4B7E7/A4B7E7?text=+) &nbsp; `#A4B7E7` | Editor Foreground, Text Links, Editor Line Number Active Foreground |
+| ![#5A75C5](https://place-hold.it/15/5A75C5/5A75C5?text=+) &nbsp; `#5A75C5` | Editor Selection, Text Link Foreground, Active Tab Foreground |
+| ![#839BFF](https://place-hold.it/15/839BFF/839BFF?text=+) &nbsp; `#839BFF` | Activity Bar Badge Background, Git Decoration Untracked Resource Foreground |
+| ![#66B98D](https://place-hold.it/15/66B98D/66B98D?text=+) &nbsp; `#66B98D` | Editor Suggest Widget Highlight Foreground, Git Decoration Conflicting Resource Foreground |
+| ![#F9A3E6](https://place-hold.it/15/F9A3E6/F9A3E6?text=+) &nbsp; `#F9A3E6` | Editor Error Foreground, Git Decoration Deleted Resource Foreground |
+| ![#4F8861](https://place-hold.it/15/4F8861/4F8861?text=+) &nbsp; `#4F8861` | Editor Gutter Added Background, Editor Warning Foreground |
 
 ## Contributing
 
